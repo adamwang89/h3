@@ -1,0 +1,5 @@
+project: h3
+ target: h3
+
+ cmds:
+   - cmd: /fuzz_varint 
